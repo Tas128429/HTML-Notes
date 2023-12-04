@@ -1,9 +1,18 @@
 p {
     color:blue;
 }
-.main{
-    color:yellow;
+.main {
+    color:black;
 }
-.middle{
+.middle {
     color:darkkhaki;
+}
+#end {
+    color:mistyrose;
+}
+.new {
+    color:cadetblue
+}
+.new p {
+    color:goldenrod;
 }
