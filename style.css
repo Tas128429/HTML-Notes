@@ -2,7 +2,7 @@ p {
     color:blue;
 }
 .main {
-    color:black;
+    color: rgb(204, 56, 56);
 }
 .middle {
     color:darkkhaki;
@@ -15,4 +15,10 @@ p {
 }
 .new p {
     color:goldenrod;
+}
+.new ul {
+    list-style: none;
+}
+.new a {
+    text-decoration: none;
 }
